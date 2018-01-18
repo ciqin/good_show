@@ -1,4 +1,4 @@
-# good_show
+# goods_show
 
 > A Vue.js project
 
